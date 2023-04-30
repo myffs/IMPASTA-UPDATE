@@ -1,9 +1,11 @@
-Hey Guys! I Have Compile Commands, Here you go:
+Here are the compile commands you will use:
+
 lime test windows
 lime build windows
 
+But first, you must find out what to install
 
-What To Install?:
+What To Install:
 
 haxelib install hmm (after it finishes, simply type haxelib run hmm install in order to install all the needed libraries)
 haxelib install lime 7.9.0
