@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Vs Impasta: v1" file="Impasta" packageName="com.lildrippymyfnf.impasta" package="com.lildrippymyfnf.impasta" main="Main" version="0.2.8" company="lildrippymyfnf" />
+	<app title="Vs Impasta: v1" file="Impasta" packageName="com.LilDrippyMyFnf.IMPASTA" package="com.LilDrippyMyFnf.IMPASTA" main="Main" version="0.2.8" company="lildrippymyfnf" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
