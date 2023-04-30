@@ -1,1 +1,3 @@
-none yet
+Hey Guys! I Have Compile Commands, Here you go:
+lime test windows
+lime build windows
