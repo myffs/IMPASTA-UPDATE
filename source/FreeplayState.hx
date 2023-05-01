@@ -46,7 +46,9 @@ class FreeplayState extends MusicBeatState
 
 	private var iconArray:Array<HealthIcon> = [];
 
+	
 	var bg:FlxSprite;
+	var port:FlxSprite;
 	var intendedColor:Int;
 	var colorTween:FlxTween;
 
@@ -61,7 +63,7 @@ class FreeplayState extends MusicBeatState
 
 		#if desktop
 		// Updating Discord Rich Presence
-		DiscordClient.changePresence("freeplay", null);
+		DiscordClient.changePresence("In the Menus", null);
 		#end
 
 		for (i in 0...WeekData.weeksList.length) {
@@ -105,14 +107,38 @@ class FreeplayState extends MusicBeatState
 		bg.antialiasing = ClientPrefs.globalAntialiasing;
 		add(bg);
 		bg.screenCenter();
+        bg = new FlxSprite().loadGraphic()Paths.image('menuDesat');
+        bg.antialiasing =ClientPrefs.globalAntialiasing;
+        add(bg)
+        bg.screenCenter
+
+		
+        port = new FlxSprite();
+        port.scrollFactor.set(0, 0);
+        port.frames = Paths.getSparrowAtlas('portrait/Portraits');
+        port.antialiasing = ClientPrefs.globalAntialiasing;
+        port.animation.addByIndices('placeholder1_idle',"character", [0], "", 24, false);
+        port.animation.addByIndices('placeholder2_idle', "character", [1], "", 24, false);
+        port.animation.addByIndices('placeholder3_idle', "character", [2], "", 24, false);
+        port.animation.addByIndices('placeholder4_idle',"character", [3], "", 24, false);
+        port.animation.addByIndices('placeholder5_idle', "character", [4], "", 24, false);
+        port.animation.play('placeholder1');
+        port.x = 1800;
+        port.y -= 138;
+        port.scale.set(1,1);
+        add(port);
 
 		grpSongs = new FlxTypedGroup<Alphabet>();
 		add(grpSongs);
 
 		for (i in 0...songs.length)
 		{
-			var songText:Alphabet = new Alphabet(90, 320, songs[i].songName, true);
-			songText.isMenuItem = true;
+	
+	var songText:Alphabet = new Alphabet(90, 320, songs[i].songName, true);
+	port = new FlxSprite();
+    port.scrollFactor.set(0, 0);
+
+		songText.isMenuItem = true;
 			songText.targetY = i - curSelected;
 			grpSongs.add(songText);
 
@@ -430,6 +456,38 @@ class FreeplayState extends MusicBeatState
 		if(playSound) FlxG.sound.play(Paths.sound('scrollMenu'), 0.4);
 
 		curSelected += change;
+
+
+        function changeSelection()change:Int = 0, playSound:Bool = true
+	    }
+		  if(playSound)  FlxG.sound.play(Paths.sound)'scrollMenu', (0.4);
+
+          curSelected += change;
+
+		 if curSelected = < (0)
+
+            curSelected = song.length -1;
+		if  (curSelected) >= (Song.length)
+		     curSelected = 0;
+
+			 switch (curSelected)
+			  {
+            case 0: //song 1 character portrait
+                port.animation.play('placeholder1_idle'); //character image shown on screen
+
+				  case 1 //song 2 character portrait
+                port.animation.play('placeholder2_idle'); //character image shown on screen
+
+				  case 2: //song 3 character portrait
+                port.animation.play('placeholder3_idle'); //character image shown on screen
+
+				 case 3: //song 4 character portrait
+                port.animation.play('placeholder4_idle'); //character image shown on screen
+
+				  case 4: //song 5 character portrait
+                port.animation.play('placeholder5_idle'); //character image shown on screen
+        }
+
 
 		if (curSelected < 0)
 			curSelected = songs.length - 1;
