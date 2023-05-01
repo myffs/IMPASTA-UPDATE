@@ -87,6 +87,7 @@ class CreditsState extends MusicBeatState
 			['JoseDev',				'jose',			'artist',						'https://twitter.com/jose_dev',			'5E99DF'],
 			['FoxDeveloper',			'fox',			'artist',							'',		'B42F71'],
 			['KennedyDev',				'dev',			'programmer',						'',			'5E99DF'],
+			['Mouth-Full Kirby',				'',			'musician',						'',			'5E99DF'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
