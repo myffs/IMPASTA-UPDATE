@@ -85,6 +85,8 @@ class CreditsState extends MusicBeatState
 			['MyFnf',		'myfnf',		'director',								'https://twitter.com/myfnf1698',	'444444'],
 			['MemeHoovy',			'meme',			'programmer',							'https://twitter.com/meme_hoovy',		'B42F71'],
 			['JoseDev',				'jose',			'artist',						'https://twitter.com/jose_dev',			'5E99DF'],
+			['FoxDeveloper',			'fox',			'artist',							'',		'B42F71'],
+			['KennedyDev',				'dev',			'programmer',						'',			'5E99DF'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
