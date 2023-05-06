@@ -7,8 +7,21 @@ But first, you must find out what to install
 
 What To Install:
 
-You must have the most up-to-date version of Haxe, seriously, stop using 4.1.5, it misses some stuff.
-
-open up a Command Prompt/PowerShell or Terminal, type haxelib install hmm
-
-after it finishes, simply type haxelib run hmm install in order to install all the needed libraries for Psych Engine!
+haxelib install flixel-addons 2.11.0
+haxelib install flixel-tools 1.5.1
+haxelib install discord_rpc
+haxelib install flixel 4.11.0
+haxelib install flixel-addons 2.11.0
+haxelib install flixel-tools 1.5.1
+haxelib install flixel-ui 2.5.0
+haxelib install hscript 2.5.0
+haxelib install hscript-ex
+haxelib install hxCodec 2.5.1
+haxelib install hxcpp 4.3.2
+haxelib install hxcpp-debug-server 1.2.4
+haxelib install hxjsonast 1.1.0
+haxelib install lime 8.0.1
+haxelib install linc_luajit
+haxelib install flixel-screenshot-plugin
+haxelib install openfl 9.2.1
+haxelib install tjson 1.4.0
