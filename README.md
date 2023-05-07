@@ -4,6 +4,6 @@ you have to compile this mod because psych engine's workflow fails and its a pai
 
 # compiling
 
-you can find that in `assets/impasta/data/compile_commands.txt`
+you can find that in [compile commands.txt](https://github.com/LilDrippyMyFnf/IMPASTA-UPDATE/blob/main/assets/impasta/data/compile_commands.txt)
 
 you basically just follow the steps and extinctions and stuff to run this mod
