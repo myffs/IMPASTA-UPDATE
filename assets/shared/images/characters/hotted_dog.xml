@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hotted_dog.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="0" y="0" width="366" height="217"/>
+	<SubTexture name="Down0001" x="0" y="0" width="366" height="217"/>
+	<SubTexture name="Down0002" x="366" y="0" width="366" height="217"/>
+	<SubTexture name="Down0003" x="366" y="0" width="366" height="217"/>
+	<SubTexture name="Down0004" x="732" y="0" width="366" height="217"/>
+	<SubTexture name="Down0005" x="732" y="0" width="366" height="217"/>
+	<SubTexture name="Down0006" x="732" y="0" width="366" height="217"/>
+	<SubTexture name="Down0007" x="732" y="0" width="366" height="217"/>
+	<SubTexture name="Down0008" x="732" y="0" width="366" height="217"/>
+	<SubTexture name="Down0009" x="732" y="0" width="366" height="217"/>
+	<SubTexture name="Down0010" x="732" y="0" width="366" height="217"/>
+	<SubTexture name="Down0011" x="732" y="0" width="366" height="217"/>
+	<SubTexture name="Down0012" x="732" y="0" width="366" height="217"/>
+	<SubTexture name="Down0013" x="732" y="0" width="366" height="217"/>
+	<SubTexture name="Down0014" x="732" y="0" width="366" height="217"/>
+	<SubTexture name="Down0015" x="732" y="0" width="366" height="217"/>
+	<SubTexture name="Down0016" x="732" y="0" width="366" height="217"/>
+	<SubTexture name="Down0017" x="732" y="0" width="366" height="217"/>
+	<SubTexture name="Down0018" x="732" y="0" width="366" height="217"/>
+	<SubTexture name="Down0019" x="1098" y="0" width="366" height="217"/>
+	<SubTexture name="Down0020" x="1464" y="0" width="366" height="217"/>
+	<SubTexture name="Down0021" x="1830" y="0" width="366" height="217"/>
+	<SubTexture name="Down0022" x="2196" y="0" width="366" height="217"/>
+	<SubTexture name="Down0023" x="2562" y="0" width="366" height="217"/>
+	<SubTexture name="Down0024" x="2928" y="0" width="366" height="217"/>
+	<SubTexture name="Down0025" x="3294" y="0" width="366" height="217"/>
+	<SubTexture name="Down0026" x="3660" y="0" width="366" height="217"/>
+	<SubTexture name="Down0027" x="3660" y="0" width="366" height="217"/>
+	<SubTexture name="Hotted Dog0000" x="0" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0001" x="0" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0002" x="212" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0003" x="212" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0004" x="0" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0005" x="0" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0006" x="424" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0007" x="636" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0008" x="848" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0009" x="1060" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0010" x="1272" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0011" x="1484" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0012" x="1696" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0013" x="1908" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0014" x="2120" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0015" x="2332" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0016" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0017" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0018" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0019" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0020" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0021" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0022" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0023" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0024" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0025" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0026" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0027" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0028" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0029" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0030" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0031" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0032" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0033" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0034" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0035" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0036" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0037" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0038" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0039" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0040" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0041" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0042" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0043" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0044" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0045" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0046" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0047" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0048" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0049" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0050" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0051" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0052" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0053" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0054" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0055" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0056" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0057" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0058" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0059" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0060" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0061" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0062" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0063" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0064" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0065" x="2544" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0066" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Hotted Dog0067" x="2756" y="217" width="212" height="221"/>
+	<SubTexture name="Idle0000" x="2968" y="217" width="217" height="228"/>
+	<SubTexture name="Idle0001" x="2968" y="217" width="217" height="228"/>
+	<SubTexture name="Idle0002" x="3185" y="217" width="217" height="228"/>
+	<SubTexture name="Idle0003" x="3185" y="217" width="217" height="228"/>
+	<SubTexture name="Join0000" x="3402" y="217" width="207" height="216"/>
+	<SubTexture name="Join0001" x="3609" y="217" width="207" height="216"/>
+	<SubTexture name="Join0002" x="3816" y="217" width="207" height="216"/>
+	<SubTexture name="Join0003" x="0" y="445" width="207" height="216"/>
+	<SubTexture name="Join0004" x="207" y="445" width="207" height="216"/>
+	<SubTexture name="Join0005" x="414" y="445" width="207" height="216"/>
+	<SubTexture name="Join0006" x="621" y="445" width="207" height="216"/>
+	<SubTexture name="Join0007" x="828" y="445" width="207" height="216"/>
+	<SubTexture name="Join0008" x="1035" y="445" width="207" height="216"/>
+	<SubTexture name="Join0009" x="1242" y="445" width="207" height="216"/>
+	<SubTexture name="Join0010" x="1449" y="445" width="207" height="216"/>
+	<SubTexture name="Join0011" x="1656" y="445" width="207" height="216"/>
+	<SubTexture name="Join0012" x="1863" y="445" width="207" height="216"/>
+	<SubTexture name="Join0013" x="2070" y="445" width="207" height="216"/>
+	<SubTexture name="Join0014" x="2277" y="445" width="207" height="216"/>
+	<SubTexture name="Join0015" x="2484" y="445" width="207" height="216"/>
+	<SubTexture name="Join0016" x="2691" y="445" width="207" height="216"/>
+	<SubTexture name="Join0017" x="2898" y="445" width="207" height="216"/>
+	<SubTexture name="Join0018" x="3105" y="445" width="207" height="216"/>
+	<SubTexture name="Join0019" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0020" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0021" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0022" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0023" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0024" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0025" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0026" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0027" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0028" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0029" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0030" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0031" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0032" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0033" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0034" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0035" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0036" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0037" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0038" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0039" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0040" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0041" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0042" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0043" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0044" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0045" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0046" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Join0047" x="3312" y="445" width="207" height="216"/>
+	<SubTexture name="Leave0000" x="3519" y="445" width="284" height="228"/>
+	<SubTexture name="Leave0001" x="3519" y="445" width="284" height="228"/>
+	<SubTexture name="Leave0002" x="3803" y="445" width="284" height="228"/>
+	<SubTexture name="Leave0003" x="3803" y="445" width="284" height="228"/>
+	<SubTexture name="Leave0004" x="3803" y="445" width="284" height="228"/>
+	<SubTexture name="Leave0005" x="3803" y="445" width="284" height="228"/>
+	<SubTexture name="Leave0006" x="3803" y="445" width="284" height="228"/>
+	<SubTexture name="Leave0007" x="3803" y="445" width="284" height="228"/>
+	<SubTexture name="Leave0008" x="3803" y="445" width="284" height="228"/>
+	<SubTexture name="Leave0009" x="3803" y="445" width="284" height="228"/>
+	<SubTexture name="Leave0010" x="3803" y="445" width="284" height="228"/>
+	<SubTexture name="Leave0011" x="3803" y="445" width="284" height="228"/>
+	<SubTexture name="Leave0012" x="3803" y="445" width="284" height="228"/>
+	<SubTexture name="Leave0013" x="3803" y="445" width="284" height="228"/>
+	<SubTexture name="Leave0014" x="3803" y="445" width="284" height="228"/>
+	<SubTexture name="Leave0015" x="0" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0016" x="284" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0017" x="568" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0018" x="852" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0019" x="1136" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0020" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0021" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0022" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0023" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0024" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0025" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0026" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0027" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0028" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0029" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0030" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0031" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0032" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0033" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0034" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0035" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0036" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0037" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0038" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0039" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0040" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0041" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0042" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0043" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0044" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0045" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0046" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0047" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0048" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0049" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0050" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0051" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0052" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0053" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0054" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0055" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0056" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0057" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0058" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0059" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0060" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0061" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0062" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0063" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0064" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0065" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0066" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0067" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0068" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0069" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0070" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0071" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0072" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0073" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0074" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0075" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0076" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0077" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0078" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0079" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0080" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0081" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0082" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0083" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0084" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0085" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0086" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0087" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0088" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0089" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0090" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0091" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0092" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0093" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0094" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0095" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0096" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0097" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0098" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0099" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Leave0100" x="1420" y="673" width="284" height="228"/>
+	<SubTexture name="Left0000" x="1704" y="673" width="344" height="217"/>
+	<SubTexture name="Left0001" x="1704" y="673" width="344" height="217"/>
+	<SubTexture name="Left0002" x="2048" y="673" width="344" height="217"/>
+	<SubTexture name="Left0003" x="2048" y="673" width="344" height="217"/>
+	<SubTexture name="Left0004" x="2392" y="673" width="344" height="217"/>
+	<SubTexture name="Left0005" x="2392" y="673" width="344" height="217"/>
+	<SubTexture name="Left0006" x="2392" y="673" width="344" height="217"/>
+	<SubTexture name="Left0007" x="2392" y="673" width="344" height="217"/>
+	<SubTexture name="Left0008" x="2392" y="673" width="344" height="217"/>
+	<SubTexture name="Left0009" x="2392" y="673" width="344" height="217"/>
+	<SubTexture name="Left0010" x="2392" y="673" width="344" height="217"/>
+	<SubTexture name="Left0011" x="2392" y="673" width="344" height="217"/>
+	<SubTexture name="Left0012" x="2392" y="673" width="344" height="217"/>
+	<SubTexture name="Left0013" x="2392" y="673" width="344" height="217"/>
+	<SubTexture name="Left0014" x="2392" y="673" width="344" height="217"/>
+	<SubTexture name="Left0015" x="2392" y="673" width="344" height="217"/>
+	<SubTexture name="Left0016" x="2392" y="673" width="344" height="217"/>
+	<SubTexture name="Left0017" x="2392" y="673" width="344" height="217"/>
+	<SubTexture name="Left0018" x="2392" y="673" width="344" height="217"/>
+	<SubTexture name="Left0019" x="2736" y="673" width="344" height="217"/>
+	<SubTexture name="Left0020" x="3080" y="673" width="344" height="217"/>
+	<SubTexture name="Left0021" x="3424" y="673" width="344" height="217"/>
+	<SubTexture name="Left0022" x="0" y="901" width="344" height="217"/>
+	<SubTexture name="Left0023" x="344" y="901" width="344" height="217"/>
+	<SubTexture name="Left0024" x="688" y="901" width="344" height="217"/>
+	<SubTexture name="Left0025" x="1032" y="901" width="344" height="217"/>
+	<SubTexture name="Left0026" x="1376" y="901" width="344" height="217"/>
+	<SubTexture name="Left0027" x="1376" y="901" width="344" height="217"/>
+	<SubTexture name="Right0000" x="1720" y="901" width="434" height="243"/>
+	<SubTexture name="Right0001" x="1720" y="901" width="434" height="243"/>
+	<SubTexture name="Right0002" x="2154" y="901" width="434" height="243"/>
+	<SubTexture name="Right0003" x="2154" y="901" width="434" height="243"/>
+	<SubTexture name="Right0004" x="2588" y="901" width="434" height="243"/>
+	<SubTexture name="Right0005" x="2588" y="901" width="434" height="243"/>
+	<SubTexture name="Right0006" x="2588" y="901" width="434" height="243"/>
+	<SubTexture name="Right0007" x="2588" y="901" width="434" height="243"/>
+	<SubTexture name="Right0008" x="2588" y="901" width="434" height="243"/>
+	<SubTexture name="Right0009" x="2588" y="901" width="434" height="243"/>
+	<SubTexture name="Right0010" x="2588" y="901" width="434" height="243"/>
+	<SubTexture name="Right0011" x="2588" y="901" width="434" height="243"/>
+	<SubTexture name="Right0012" x="2588" y="901" width="434" height="243"/>
+	<SubTexture name="Right0013" x="2588" y="901" width="434" height="243"/>
+	<SubTexture name="Right0014" x="2588" y="901" width="434" height="243"/>
+	<SubTexture name="Right0015" x="2588" y="901" width="434" height="243"/>
+	<SubTexture name="Right0016" x="2588" y="901" width="434" height="243"/>
+	<SubTexture name="Right0017" x="2588" y="901" width="434" height="243"/>
+	<SubTexture name="Right0018" x="2588" y="901" width="434" height="243"/>
+	<SubTexture name="Right0019" x="2588" y="901" width="434" height="243"/>
+	<SubTexture name="Right0020" x="3022" y="901" width="434" height="243"/>
+	<SubTexture name="Right0021" x="3456" y="901" width="434" height="243"/>
+	<SubTexture name="Right0022" x="0" y="1144" width="434" height="243"/>
+	<SubTexture name="Right0023" x="434" y="1144" width="434" height="243"/>
+	<SubTexture name="Right0024" x="868" y="1144" width="434" height="243"/>
+	<SubTexture name="Right0025" x="1302" y="1144" width="434" height="243"/>
+	<SubTexture name="Right0026" x="1736" y="1144" width="434" height="243"/>
+	<SubTexture name="Right0027" x="1736" y="1144" width="434" height="243"/>
+	<SubTexture name="Up0000" x="2170" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0001" x="2170" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0002" x="2535" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0003" x="2535" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0004" x="2900" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0005" x="2900" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0006" x="2900" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0007" x="2900" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0008" x="2900" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0009" x="2900" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0010" x="2900" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0011" x="2900" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0012" x="2900" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0013" x="2900" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0014" x="2900" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0015" x="2900" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0016" x="2900" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0017" x="2900" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0018" x="2900" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0019" x="3265" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0020" x="3630" y="1144" width="365" height="307"/>
+	<SubTexture name="Up0021" x="0" y="1451" width="365" height="307"/>
+	<SubTexture name="Up0022" x="365" y="1451" width="365" height="307"/>
+	<SubTexture name="Up0023" x="730" y="1451" width="365" height="307"/>
+	<SubTexture name="Up0024" x="1095" y="1451" width="365" height="307"/>
+	<SubTexture name="Up0025" x="1460" y="1451" width="365" height="307"/>
+	<SubTexture name="Up0026" x="1825" y="1451" width="365" height="307"/>
+	<SubTexture name="Up0027" x="1825" y="1451" width="365" height="307"/>
+</TextureAtlas>
