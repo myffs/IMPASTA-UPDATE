@@ -1,1 +1,0 @@
-this mod is assets folder only!
