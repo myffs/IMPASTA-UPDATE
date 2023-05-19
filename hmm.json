@@ -71,13 +71,6 @@
       "ref": "bcb4254",
       "url": "https://github.com/nebulazorua/linc_luajit"
     },
-        {
-      "name": "flixel-screenshot-plugin",
-      "type": "git",
-      "dir": null,
-      "ref": "master",
-      "url": "https://github.com/sayofthelor/flixel-screenshot-plugin"
-    },
     {
       "name": "openfl",
       "type": "haxelib",
