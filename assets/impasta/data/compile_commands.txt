@@ -1,7 +1,9 @@
 Here are the compile commands you will use:
 
+For a release build of the game (a build ment for the public):
 lime test windows
-lime build windows
+For a dubug build of the game:
+lime test windows -debug
 
 But first, you must find out what to install
 
