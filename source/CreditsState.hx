@@ -81,7 +81,7 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			['pastars'],
+			['IMPASTARE'],
 			['MyFnf',		'myfnf',		'director',								'https://twitter.com/myfnf1698',	'444444'],
 			['MemeHoovy',			'meme',			'programmer',							'https://twitter.com/meme_hoovy',		'B42F71'],
 			['JoseDev',				'jose',			'artist',						'https://twitter.com/jose_dev',			'5E99DF'],
