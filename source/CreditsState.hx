@@ -84,7 +84,7 @@ class CreditsState extends MusicBeatState
 			['IMPASTAS'],
 			['MyFnf',		'myfnf',		'i am very unfunny...\n(Director)',								'https://twitter.com/myfnf1698',	'444444'],
 			['MemeHoovy',			'meme',			'child abuse isnt ok...\n(Programmer)',							'https://twitter.com/meme_hoovy',		'B42F71'],
-			['JoseDev',				'jose',			'i left discord on my 14th birthday.\n(Artist)',						'https://twitter.com/jose_dev',			'5E99DF'],
+			['JoseDev1664',				'jose',			'i left discord on my 14th birthday.\n(Artist)',						'https://twitter.com/jose_dev',			'5E99DF'],
 			['FoxDeveloper',			'fox',			'musicianer who likes to suprise ppl.\n(Musician)',							'',		'B42F71'],
 			['KennedyDev',				'dev',			'i love loggo.\n(Programmer)',						'',			'5E99DF'],
 			['Mouth-Full Kirby',				'Mfk',			'im cool + i love pizza tower!!!\n(Musician + Artist)',						'https://www.youtube.com/@mouth-fullkirby7416/videos',			'5E99DF'],
