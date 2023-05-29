@@ -55,7 +55,6 @@ import flixel.effects.particles.FlxParticle;
 import flixel.util.FlxSave;
 import flixel.animation.FlxAnimationController;
 import animateatlas.AtlasFrameMaker;
-import Achievements;
 import StageData;
 import FunkinLua;
 import DialogueBoxPsych;
@@ -2256,7 +2255,7 @@ class PlayState extends MusicBeatState
 
 	public function updateScore(miss:Bool = false)
 	{
-		scoreTxt.text = 'Score: ' + songScore
+		scoreTxt.text = 'Total Score: ' + songScore
 		+ ' | Misses: ' + songMisses
 		+ ' | Accuracy: ' + ratingName
 		+ (ratingName != '.' ? ' (${Highscore.floorDecimal(ratingPercent * 100, 2)}%) - $ratingFC' : '');

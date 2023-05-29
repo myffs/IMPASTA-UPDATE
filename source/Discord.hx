@@ -45,7 +45,7 @@ class DiscordClient
 			details: "In The Menus",
 			state: null,
 			largeImageKey: 'icon',
-			largeImageText: "VS Impasta v1"
+			largeImageText: "VS Impasta"
 		});
 	}
 

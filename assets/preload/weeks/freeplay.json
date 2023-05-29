@@ -1,8 +1,6 @@
 {
 	"songs": [
-		["SUSSUS LOOMBIS", "green", [34, 51, 68]],
-		["Check Out", "green", [34, 51, 68]],
-		["Vented", "green", [34, 51, 68]]
+		["Hotted Dog", "hotted", [148, 22, 83]]
 	],
 
 	"weekCharacters": [
@@ -12,9 +10,9 @@
 	],
 	"weekBackground": "",
 
-	"storyName": "Mira Macabrae",
+	"storyName": "Freeplay Mania",
 	"weekBefore": "",
-	"weekName": "Week 2",
+	"weekName": "???",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,

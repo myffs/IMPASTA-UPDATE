@@ -1,19 +1,19 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		["SUSSUS BOPMUS", "red", [146, 113, 253]],
+		["Sabatoge", "red", [146, 113, 253]],
+		["Meeting", "red", [146, 113, 253]]
 	],
 
 	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"weekBackground": "stage",
+	"weekBackground": "",
 
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
+	"storyName": "Polus Protocalls",
+	"weekBefore": "",
 	"weekName": "Week 1",
 	"startUnlocked": true,
 
