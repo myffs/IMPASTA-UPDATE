@@ -1,22 +1,32 @@
 {
-	"songs": [
-		["SUSSUS BOPMUS", "red", [146, 113, 253]],
-		["Sabatoge", "red", [146, 113, 253]],
-		["Meeting", "red", [146, 113, 253]]
+	"storyName": "Polus",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "red",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"SUSSUS BOPPUS",
+			"red",
+			[
+				195,
+				0,
+				20
+			]
+		]
+	],
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"weekBackground": "",
-
-	"storyName": "Polus Protocalls",
-	"weekBefore": "",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hiddenUntilUnlocked": false,
+	"weekName": "Polus Week"
 }
