@@ -16,7 +16,7 @@ function onCreatePost()
 		setProperty("showComboNum", false)
 		setProperty("showRating", false)
 	end
-	setTextString("botplayTxt", "Be_Impostor.exe")
+	setTextString("botplayTxt", "Botplay.exe")
 	if downScroll then
 		setProperty("botplayTxt.y", getProperty("healthBar.y")+40)
 	else
@@ -98,7 +98,7 @@ function getRating()
 	if ratingFC ~= '' then
 		return ratingName..' ('..round(rating*100, 2)..'%) - '..ratingFC
 	else
-		return '?'
+		return '0%'
 	end
 end
 
@@ -110,7 +110,7 @@ function onUpdatePost(elapsed)
 	setProperty("iconP2.y", getProperty('healthBar.y') + (getProperty("iconP2.height") / 2)-147)
 	setTextColor("scoreTxt", to_hex(getProperty('dad.healthColorArray')))
 	setTextColor("botplayTxt", to_hex(getProperty('dad.healthColorArray')))
-	setTextString('scoreTxt','Score: '..score..' | Combo Breaks: '..misses..' | Rating: '..getRating())
+	setTextString('scoreTxt','Score: '..score..' | Combo Breaks: '..misses..' | Accuracy: '..getRating())
 end
 
 function string.starts(str, start)
