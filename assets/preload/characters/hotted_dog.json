@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-160,
+				-510
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-30,
+				-540
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-118,
+				-522
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-152,
+				-393
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-94,
+				-490
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-166,
+				-514
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Join",
+			"indices": [],
+			"name": "Join"
+		},
+		{
+			"offsets": [
+				-159,
+				-471
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Leave",
+			"indices": [],
+			"name": "Leave"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hotted_dog",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hotted",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		102
+	],
+	"camera_position": [
+		-40,
+		590
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

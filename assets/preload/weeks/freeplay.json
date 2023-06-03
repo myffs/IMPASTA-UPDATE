@@ -1,20 +1,32 @@
 {
-	"songs": [
-		["Hotted Dog", "hotted", [148, 22, 83]]
+	"storyName": "Freeplay",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Hotted dog",
+			"hotted",
+			[
+				255,
+				0,
+				60
+			]
+		]
+	],
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"weekBackground": "",
-
-	"storyName": "Freeplay Mania",
-	"weekBefore": "",
-	"weekName": "???",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hiddenUntilUnlocked": false,
+	"weekName": "Freeplay Week"
 }

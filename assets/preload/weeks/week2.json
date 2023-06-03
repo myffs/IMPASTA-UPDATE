@@ -1,22 +1,32 @@
 {
-	"songs": [
-		["SUSSUS LOOMBIS", "green", [34, 51, 68]],
-		["Check Out", "green", [34, 51, 68]],
-		["Vented", "green", [34, 51, 68]]
+	"storyName": "Mira HQ",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Conduct",
+			"green",
+			[
+				0,
+				240,
+				115
+			]
+		]
+	],
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"weekBackground": "",
-
-	"storyName": "Mira Macabrae",
-	"weekBefore": "",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hiddenUntilUnlocked": false,
+	"weekName": "Mira HQ Week"
 }
