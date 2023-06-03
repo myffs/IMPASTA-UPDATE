@@ -390,7 +390,6 @@ class PlayState extends MusicBeatState
 		practiceMode = ClientPrefs.getGameplaySetting('practice', false);
 		cpuControlled = ClientPrefs.getGameplaySetting('botplay', false);
 
-		// var gameCam:FlxCamera = FlxG.camera;
 		camGame = new FlxCamera();
 		camHUD = new FlxCamera();
 		camOther = new FlxCamera();
@@ -1164,11 +1163,6 @@ class PlayState extends MusicBeatState
 		timeTxt.cameras = [camHUD];
 		doof.cameras = [camHUD];
 
-		// if (SONG.song == 'South')
-		// FlxG.camera.alpha = 0.7;
-		// UI_camera.zoom = 1;
-
-		// cameras = [FlxG.cameras.list[1]];
 		startingSong = true;
 		
 		#if LUA_ALLOWED
