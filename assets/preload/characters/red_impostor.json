@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				160,
-				-332
+				30,
+				-300
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				170,
-				-335
+				290,
+				-280
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				142,
-				-298
+				52,
+				-272
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				118,
-				-119
+				38,
+				-103
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				86,
-				-327
+				236,
+				-262
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,44 +57,33 @@
 		},
 		{
 			"offsets": [
-				238,
-				-324
+				0,
+				-241
 			],
 			"loop": false,
-			"fps": 24,
-			"anim": "per attack",
+			"fps": 26,
+			"anim": "shoot",
 			"indices": [],
-			"name": "pre attack"
-		},
-		{
-			"offsets": [
-				264,
-				-313
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "attack",
-			"indices": [],
-			"name": "attack"
+			"name": "shoot"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/green_impostor",
+	"image": "characters/red_impostor",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "green",
+	"healthicon": "red",
 	"flip_x": false,
 	"healthbar_colors": [
-		0,
-		175,
-		199
+		255,
+		60,
+		100
 	],
 	"camera_position": [
-		-360,
-		350
+		-170,
+		410
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 0.8
 }

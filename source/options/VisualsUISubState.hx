@@ -104,7 +104,7 @@ class VisualsUISubState extends BaseOptionsMenu
 			'pauseMusic',
 			'string',
 			'Tea Time',
-			['None', 'Breakfast', 'Tea Time', 'Impostor Lobby']);
+			['None', 'Breakfast', 'Tea Time', 'Impostor Lobby']); //Impostor lobby is wip!
 		addOption(option);
 		option.onChange = onChangePauseMusic;
 		
