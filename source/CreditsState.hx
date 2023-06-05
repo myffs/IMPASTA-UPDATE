@@ -82,10 +82,11 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['IMPASTAS'],
-			['MyFnf',		'fnf',		'Hello im myfnf,\ni coded, and charted a little bit.',								'https://twitter.com/myfnf1698',	'444444'],
+			['MyFnf',		'fnf',		'Hello im myfnf,\ni coded, and charted a little bit.',								'',	'444444'],
 			['MemeHoovy',			'meme',			'Hi, ',							'https://twitter.com/meme_hoovy',		'B42F71'],
-			['JoseDev1664',				'jose',			'Hi im josedev,\nim a artist, didnt really do much art for the mod tbh.',						'https://twitter.com/jose_dev',			'5E99DF'],
-			['Crazy Dany',				'dany',			'hi im crazydany\ni make some art here and there.',						'https://twitter.com/jose_dev',			'5E99DF'],
+		        ['Tobal Asado',				'tobal',			'Hi im tobal,\ni am the main artist.',						'',			''],
+			['JoseDev1664',				'jose',			'Hi im josedev,\nim a artist, didnt really do much art for the mod tbh.',						'',			'5E99DF'],
+			['Crazy Dany',				'dany',			'hi im crazydany\ni make some art here and there.',						'',			'5E99DF'],
 			['FoxDeveloper',			'fox',			'hello im fox,\ni composed the pause music song called "impostor lobby".',							'',		'B42F71'],
 			['KennedyDev',				'dev',			'hello i am a charter.',						'',			'5E99DF'],
 			['The Nose',				'Mfk',			'hi im the nose,\ni made the hotted dog sprites and i composed the song "hotted dog".',						'https://www.youtube.com/@mouth-fullkirby7416/videos',			'5E99DF'],
