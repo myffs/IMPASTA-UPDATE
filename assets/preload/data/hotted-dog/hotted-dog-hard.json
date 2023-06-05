@@ -4578,11 +4578,11 @@
 		],
 		"player2": "hotted_dog",
 		"player3": null,
-		"song": "Hotted dog",
+		"song": "Hotted Dog",
 		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 128,
-		"speed": 2.7
+		"speed": 3.2
 	}
 }
