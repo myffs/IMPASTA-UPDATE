@@ -10,7 +10,7 @@ function onCreatePost()
         size = getTextWidth('text')
 
         makeLuaSprite('creditbg', nil, size - 12, 200 - 12);
-        makeGraphic('creditbg', size + 24, getProperty('text.height') + 24, '000000');
+        makeGraphic('creditbg', size + 24, getProperty('text.height') + 24, 'FFFFFF');
         setObjectCamera('creditbg', 'other');
         setProperty('creditbg.alpha', 0.47);
         addLuaSprite('creditbg');
