@@ -8,16 +8,16 @@
 
 function onCreate()
 	-- background shit
-	makeLuaSprite('WeaponsFront', 'WeaponsFront', 0, 90);
-	setScrollFactor('WeaponsFront', 0.9, 0.9);
-	scaleObject('WeaponsFront', 0.9, 0.9);
+	makeLuaSprite('LaboratoryFront', 'LaboratoryFront', 0, 90);
+	setScrollFactor('LaboratoryFront', 0.9, 0.9);
+	scaleObject('LaboratoryFront', 0.9, 0.9);
 
 
-	makeLuaSprite('WeaponsBack', 'WeaponsBack', 0, 0);
-	setScrollFactor('WeaponsBack', 0.9, 0.9);
+	makeLuaSprite('LaboratoryBack', 'LaboratoryBack', 0, 0);
+	setScrollFactor('LaboratoryBack', 0.9, 0.9);
 
 	
 
-	addLuaSprite('WeaponsBack', false);
-	addLuaSprite('WeaponsFront', true);
+	addLuaSprite('LaboratoryBack', false);
+	addLuaSprite('LaboratoryFront', true);
 end
