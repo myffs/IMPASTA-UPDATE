@@ -62,7 +62,7 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "per attack",
+			"anim": "pre attack",
 			"indices": [],
 			"name": "pre attack"
 		},
