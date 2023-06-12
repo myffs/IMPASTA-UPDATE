@@ -81,19 +81,19 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			['IMPASTAS'],
-			['MyFnf',		'fnf',		'Hello im myfnf,\ni coded, and charted a little bit.',								'',	'FFFFFF'],
-			['MemeHoovy',			'meme',			'Hi, Im the main programmer ',							'https://twitter.com/meme_hoovy',		'FFFFFF'],
-		    ['Fox',				'fox',			'Im fox\ni made the logo, and impostor lobby for this mod.',						'',			''],
-            ['Tobal Asado',				'tobal',			'Hi im tobal,\ni am the main artist.',						'',			''],
-			['JoseDev1664',				'jose',			'Hi im josedev,\nim a artist, didnt really do much art for the mod tbh.',						'',			'FFFFFF'],
-			['Crazy Dany',				'dany',			'hi im crazydany\ni make some art here and there.',						'',			'FFFFFF'],
-			['KennedyDev',				'dev',			'hello i am a charter.',						'',			'FFFFFF'],
-			['The Nose',				'nose',			'hi im the nose,\ni made the hotted dog sprites and i composed the song "hotted dog".',						'https://www.youtube.com/@mouth-fullkirby7416/videos',			'FFFFFF'],
-			['Fishik',				'discord',			'hello, im fishik,\ni mainly composed week 1.',						'https://youtube.com/@FushikGodzilla',			'FFFFFF'],
-			['DumbPNG',				'discord',			'hi, im dumbpng\ni was the main composer for week 2.',						'',			'FFFFFF'],
-			['PedroGames2',				'pedro',			'hello!\ni dont really do much for this mod, im just a fan ^^',						'',			'FFFFFF'],
-			['SomeDudeNamedTim',				'discord',			'hello\nim the main compiler.',						'',			'FFFFFF']
+			['IMPASTA TEAM'],
+			['MyFnf',		'fnf',		'Director\nCharted, and coded a bit',								'',	'FFFFFF'],
+			['MemeHoovy',			'meme',			'Main Coder',							'https://twitter.com/meme_hoovy',		'FFFFFF'],
+		        ['Fox',				'fox',			'Artist and composed a bit',						'',			''],
+                        ['Tobal Asado',				'tobal',			'Main Artist',						'',			''],
+			['JoseDev1664',				'jose',			'i make jokes.',						'',			'FFFFFF'],
+			['Crazy Dany',				'dany',			'Im just here, watching...',						'',			'FFFFFF'],
+			['KennedyDev',				'dev',			'Charter',						'',			'FFFFFF'],
+			['The Nose',				'nose',			'Artist and made several songs',						'https://www.youtube.com/@mouth-fullkirby7416/videos',			'FFFFFF'],
+			['Fishik',				'discord',			'Main week 1 composer',						'https://youtube.com/@FushikGodzilla',			'FFFFFF'],
+			['DumbPNG',				'discord',			'Main week 2 composer.',						'',			'FFFFFF'],
+			['PedroGames2',				'pedro',			'Literally a fan / playtester...uh.',						'',			'FFFFFF'],
+			['SomeDudeNamedTim',				'discord',			'Main compiler who makes builds',						'',			'FFFFFF']
 		];
 		
 		for(i in pisspoop){
