@@ -51,6 +51,7 @@ function boundTo(value, min, max) --boundTo is for not let the value go lower th
     end
     return newValue;
 end
+
 function getIconColor(chr)
 	return getColorFromHex(rgbToHex(getProperty(chr .. ".healthColorArray")))
 end
