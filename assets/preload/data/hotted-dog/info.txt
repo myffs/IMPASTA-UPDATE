@@ -1,3 +1,2 @@
 Hotted Dog
 Composer: The Nose
-Charter: MyFnf
