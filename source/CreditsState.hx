@@ -82,10 +82,10 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['IMPASTA TEAM'],
-			['MyFnf',		'fnf',		'Director\nCharted, and coded a bit',								'',	'FFFFFF'],
+			['MyFnf',		'fnf',		'Director, and Charted a bit.',								'',	'FFFFFF'],
 			['MemeHoovy',			'meme',			'Main Coder',							'https://twitter.com/meme_hoovy',		'FFFFFF'],
-		      ['Fox',				'fox',			'Artist and composed a bit',						'',			'FFFFFF'],
-                  ['Tobal Asado',				'tobal',			'Main Artist',						'',			'FFFFFF'],
+		        ['FoxDev',				'fox',			'Artist and composed a bit',						'',			'FFFFFF'],
+                        ['Tobal Asado',				'tobal',			'Main Artist',						'',			'FFFFFF'],
 			['JoseDev1664',				'jose',			'i make jokes.',						'',			'FFFFFF'],
 			['Crazy Dany',				'dany',			'Im just here, watching...',						'',			'FFFFFF'],
 			['KennedyDev',				'dev',			'Charter',						'',			'FFFFFF'],
@@ -93,7 +93,7 @@ class CreditsState extends MusicBeatState
 			['Fishik',				'discord',			'Main week 1 composer',						'https://youtube.com/@FushikGodzilla',			'FFFFFF'],
 			['DumbPNG',				'discord',			'Main week 2 composer.',						'',			'FFFFFF'],
 			['PedroGames2',				'pedro',			'Literally a fan / playtester...uh.',						'',			'FFFFFF'],
-			['SomeDudeNamedTim',				'discord',			'Main compiler who makes builds',						'',			'FFFFFF'],
+			['Weed_',				'discord',			'Main compiler who makes builds',						'',			'FFFFFF'],
 			['Rob0br1ne',				'rob',			'i maek builds!!!',						'',			'FFFFFF']
 		];
 		
