@@ -42,7 +42,7 @@ class DiscordClient
 	static function onReady()
 	{
 		DiscordRpc.presence({
-			details: "In the Menus",
+			details: "In The Menus",
 			state: null,
 			largeImageKey: 'icon',
 			largeImageText: "VS IMPASTA"
