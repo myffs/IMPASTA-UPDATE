@@ -3368,7 +3368,7 @@ class PlayState extends MusicBeatState
 
 	public function triggerEventNote(eventName:String, value1:String, value2:String) {
 		switch(eventName) {
-			case 'O2 Sabatoge':
+			case 'O2 Sabatage':
 				FlxG.camera.flash(FlxColor.RED, 1);
 
 			case 'Dadbattle Spotlight':
