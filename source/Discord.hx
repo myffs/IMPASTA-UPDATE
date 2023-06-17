@@ -17,7 +17,7 @@ class DiscordClient
 	{
 		trace("Discord Client starting...");
 		DiscordRpc.start({
-			clientID: "1118716974357282927",
+			clientID: "1119383338591998042",
 			onReady: onReady,
 			onError: onError,
 			onDisconnected: onDisconnected
@@ -42,10 +42,10 @@ class DiscordClient
 	static function onReady()
 	{
 		DiscordRpc.presence({
-			details: "In The Menus",
+			details: "In the Menus",
 			state: null,
 			largeImageKey: 'icon',
-			largeImageText: "VS. Impasta"
+			largeImageText: "VS IMPASTA"
 		});
 	}
 
@@ -81,8 +81,8 @@ class DiscordClient
 		DiscordRpc.presence({
 			details: details,
 			state: state,
-			largeImageKey: 'image',
-			largeImageText: "VS. Impasta: " + MainMenuState.psychEngineVersion,
+			largeImageKey: 'icon',
+			largeImageText: "VS IMPASTA: " + MainMenuState.psychEngineVersion,
 			smallImageKey : smallImageKey,
 			// Obtained times are in milliseconds so they are divided so Discord can use it
 			startTimestamp : Std.int(startTimestamp / 1000),
