@@ -3,30 +3,39 @@
 	"difficulties": "hard",
 	"hideFreeplay": false,
 	"weekBackground": "",
-	"weekBefore": "",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "",
 	"startUnlocked": true,
-	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
-			"Hotted dog",
+			"Hotted Dog",
 			"hotted",
 			[
 				255,
 				0,
 				60
 			]
+		],
+		[
+			"Masochistic",
+			"coral",
+			[
+				55,
+				0,
+				40
+			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Freeplay Week"
+	"hideStoryMode": true,
+	"weekName": "Freeplay Week",
+	"hiddenUntilUnlocked": false
 }
