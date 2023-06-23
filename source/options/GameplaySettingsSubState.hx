@@ -145,13 +145,6 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 		option.changeValue = 0.1;
 		addOption(option);
 
-		var option:Option = new Option('No More Nuzzles',
-			'Because yes.',
-			'nuzzle',
-			'bool',
-			false);
-		addOption(option);
-
 		super();
 	}
 
