@@ -94,8 +94,7 @@ class CreditsState extends MusicBeatState
 			['DumbPNG',				'discord',			'Main week 2 composer.',						'',			'FFFFFF'],
 			['PedroGames2',				'pedro',			'Literally a fan / playtester...uh.',						'',			'FFFFFF'],
 			['weed_',				'discord',			'Main compiler who makes builds',						'',			'FFFFFF'],
-			['Rob0br1ne',				'rob',			'i maek builds!!!',						'',			'FFFFFF'],
-			['iceTom_',				'discord',			'former member:\ni coded the o2 event and discord rpc',						'',			'FFFFFF']
+			['Rob0br1ne',				'rob',			'i maek builds!!!',						'',			'FFFFFF']
 		];
 		
 		for(i in pisspoop){
