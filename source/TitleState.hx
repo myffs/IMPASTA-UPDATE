@@ -636,9 +636,9 @@ class TitleState extends MusicBeatState
 				// credTextShit.visible = true;
 				case 4:
 					#if PSYCH_WATERMARKS
-					addMoreText('lots of people', 15);
+					addMoreText('present', 15);
 					#else
-					addMoreText('present');
+					addMoreText('marker');
 					#end
 				// credTextShit.text += '\npresent...';
 				// credTextShit.addText();
