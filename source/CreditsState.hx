@@ -92,7 +92,6 @@ class CreditsState extends MusicBeatState
 			['The Nose',				'nose',			'Artist and made several songs',						'https://www.youtube.com/@mouth-fullkirby7416/videos',			'FFFFFF'],
 			['Fishik',				'discord',			'Main week 1 composer',						'https://youtube.com/@FushikGodzilla',			'FFFFFF'],
 			['DumbPNG',				'discord',			'Main week 2 composer.',						'',			'FFFFFF'],
-			['PedroGames2',				'pedro',			'Literally a fan / playtester...uh.',						'',			'FFFFFF'],
 			['weed_',				'discord',			'Main compiler who makes builds',						'',			'FFFFFF'],
 			['Rob0br1ne',				'rob',			'i maek builds!!!',						'',			'FFFFFF'],
 			['iceTom_',				'discord',			'former member:\ni coded the o2 event and discord rpc',						'',			'FFFFFF']
