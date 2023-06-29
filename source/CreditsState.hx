@@ -86,7 +86,7 @@ class CreditsState extends MusicBeatState
 			['MemeHoovy',			'meme',			'Main Coder',							'https://twitter.com/meme_hoovy',		'FFFFFF'],
 		        ['FoxDev',				'fox',			'Artist and composed a bit',						'',			'FFFFFF'],
                         ['Tobal Asado',				'tobal',			'Main Artist',						'',			'FFFFFF'],
-			['JoseDev1664',				'jose',			'i make jokes.',						'',			'FFFFFF'],
+			['JoseDev',				'jose',			'i code a little bit',						'',			'FFFFFF'],
 			['Crazy Dany',				'dany',			'Im just here, watching...',						'',			'FFFFFF'],
 			['KennedyDev',				'dev',			'Charter',						'',			'FFFFFF'],
 			['The Nose',				'nose',			'Artist and made several songs',						'https://www.youtube.com/@mouth-fullkirby7416/videos',			'FFFFFF'],
