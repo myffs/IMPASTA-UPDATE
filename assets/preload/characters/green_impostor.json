@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				170,
-				-335
+				290,
+				-302
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				142,
-				-298
+				212,
+				-378
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				118,
-				-119
+				288,
+				-109
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,7 +46,7 @@
 		},
 		{
 			"offsets": [
-				86,
+				116,
 				-327
 			],
 			"loop": false,
@@ -54,28 +54,6 @@
 			"anim": "singRIGHT",
 			"indices": [],
 			"name": "right"
-		},
-		{
-			"offsets": [
-				238,
-				-324
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "pre attack",
-			"indices": [],
-			"name": "pre attack"
-		},
-		{
-			"offsets": [
-				264,
-				-313
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "attack",
-			"indices": [],
-			"name": "attack"
 		}
 	],
 	"no_antialiasing": false,
@@ -92,8 +70,8 @@
 		199
 	],
 	"camera_position": [
-		-360,
-		350
+		-260,
+		460
 	],
 	"sing_duration": 6.1,
 	"scale": 1
