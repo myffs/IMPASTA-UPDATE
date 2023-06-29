@@ -4612,7 +4612,7 @@
 		"validScore": true,
 		"needsVoices": true,
 		"stage": "stage",
-		"speed": 3,
+		"speed": 3.2,
 		"bpm": 128
 	}
 }
