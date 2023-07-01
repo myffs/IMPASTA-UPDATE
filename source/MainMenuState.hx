@@ -26,7 +26,7 @@ using StringTools;
 
 class MainMenuState extends MusicBeatState
 {
-	public static var psychEngineVersion:String = '1.0.0'; //refixing a bit
+	public static var psychEngineVersion:String = '1.0.0';
 	public static var curSelected:Int = 0;
 
 	var menuItems:FlxTypedGroup<FlxSprite>;
@@ -139,7 +139,7 @@ class MainMenuState extends MusicBeatState
 
 		add(menuItems);
 
-		var versionShit:FlxText = new FlxText(12, FlxG.height - 24, 0, "Vs. Impasta v" + psychEngineVersion, 12);
+		var versionShit:FlxText = new FlxText(12, FlxG.height - 24, 0, "VS Impasta v" + psychEngineVersion, 12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);
@@ -252,7 +252,7 @@ class MainMenuState extends MusicBeatState
 			/*#if desktop
 			else if (FlxG.keys.anyJustPressed(debugKeys))
 			{
-				selectedSomethin = true;
+				selectedSomethin = false;
 				MusicBeatState.switchState(new MasterEditorMenu());
 			}
 			#end*/
@@ -314,7 +314,7 @@ class MainMenuState extends MusicBeatState
 				trace("Options Menu Selected");
 			case 'Credits':
 				FlxG.switchState(new CreditsState());
-				trace("Gallery Menu Selected");
+				trace("Gallery Menu Selected"); // gallery!? bluh..
 		}		
 	}
 

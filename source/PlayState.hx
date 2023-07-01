@@ -2250,7 +2250,7 @@ class PlayState extends MusicBeatState
 	public function updateScore(miss:Bool = false)
 	{
 		scoreTxt.text = 'Score: ' + songScore
-		+ ' | Misses: ' + songMisses
+		+ ' | Combo Breaks: ' + songMisses
 		+ ' | Accuracy: ' + ratingName
 		+ (ratingName != '.' ? ' (${Highscore.floorDecimal(ratingPercent * 100, 2)}%) - $ratingFC' : '');
 
@@ -3368,7 +3368,7 @@ class PlayState extends MusicBeatState
 
 	public function triggerEventNote(eventName:String, value1:String, value2:String) {
 		switch(eventName) {
-			case 'O2 Sabatage':
+			case 'O2 Sabotage':
 				FlxG.camera.flash(FlxColor.RED, 1);
 
 			case 'Dadbattle Spotlight':
