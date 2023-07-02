@@ -3368,8 +3368,8 @@ class PlayState extends MusicBeatState
 
 	public function triggerEventNote(eventName:String, value1:String, value2:String) {
 		switch(eventName) {
-			case 'O2 Sabotage':
-				FlxG.camera.flash(FlxColor.RED, 1);
+			case 'O2 Sabotage': // bluh why was this spelt wrong at first :skull:
+				FlxG.camera.flash(FlxColor.RED, 0.5); //optimizing so this doesnt hurt your eyes and will hopefully fix hotted dogs event issue
 
 			case 'Dadbattle Spotlight':
 				var val:Null<Int> = Std.parseInt(value1);
