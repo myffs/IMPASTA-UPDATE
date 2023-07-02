@@ -638,7 +638,7 @@ class TitleState extends MusicBeatState
 					#if PSYCH_WATERMARKS
 					addMoreText('present', 15);
 					#else
-					addMoreText('marker');
+					addMoreText('idk');
 					#end
 				// credTextShit.text += '\npresent...';
 				// credTextShit.addText();
