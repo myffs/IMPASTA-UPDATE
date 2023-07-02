@@ -82,18 +82,18 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['IMPASTA TEAM'],
-			['MyFnf',		'fnf',		'Director, and Charted a bit.',								'',	'FFFFFF'],
+			['MyFnf',		'fnf',		'Director, Coded and Charted a little bit.',								'',	'FFFFFF'],
 			['MemeHoovy',			'meme',			'Main Coder',							'https://twitter.com/meme_hoovy',		'FFFFFF'],
-		        ['FoxDev',				'fox',			'Artist and composed a bit',						'',			'FFFFFF'],
+		        ['FoxDev',				'fox',			'Made the logo and composed Impostor lobby ',						'',			'FFFFFF'],
                         ['Tobal Asado',				'tobal',			'Main Artist',						'',			'FFFFFF'],
-			['JoseDev',				'jose',			'i code a little bit',						'',			'FFFFFF'],
-			['Crazy Dany',				'dany',			'Im just here, watching...',						'',			'FFFFFF'],
+			['JoseDev',				'jose',			'Coded (optimized) some stuff',						'',			'FFFFFF'],
+			['Crazy Dany',				'dany',			'Im a artist, and dont do much either',						'',			'FFFFFF'],
 			['KennedyDev',				'dev',			'Charter',						'',			'FFFFFF'],
-			['The Nose',				'nose',			'Artist and made several songs',						'https://www.youtube.com/@mouth-fullkirby7416/videos',			'FFFFFF'],
+			['The Nose',				'nose',			'Artist and Composed Hotted Dog',						'https://www.youtube.com/@mouth-fullkirby7416/videos',			'FFFFFF'],
 			['Fishik',				'discord',			'Main week 1 composer',						'https://youtube.com/@FushikGodzilla',			'FFFFFF'],
 			['DumbPNG',				'discord',			'Main week 2 composer.',						'',			'FFFFFF'],
-			['weed_',				'discord',			'Main compiler who makes builds',						'',			'FFFFFF'],
-			['Rob0br1ne',				'rob',			'i maek builds!!!',						'',			'FFFFFF'],
+			['weed_',				'discord',			'Compiler who makes the testing builds',						'',			'FFFFFF'],
+			['Rob0br1ne',				'rob',			'Compiler who makes the final builds',						'',			'FFFFFF'],
 			['iceTom_',				'discord',			'former member:\ni coded the o2 event and discord rpc',						'',			'FFFFFF']
 		];
 		
