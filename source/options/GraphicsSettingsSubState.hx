@@ -68,8 +68,8 @@ class GraphicsSettingsSubState extends BaseOptionsMenu
 			120);
 		addOption(option);
 
-		option.minValue = 30;
-		option.maxValue = 500; //prob remove this when memory issues are fixed
+		option.minValue = 60;
+		option.maxValue = 120; //prob remove this when memory issues are fixed
 		option.displayFormat = '%v FPS';
 		option.onChange = onChangeFramerate;
 		#end
