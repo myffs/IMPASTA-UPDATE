@@ -5446,7 +5446,7 @@
 		"song": "Hotted Dog",
 		"validScore": true,
 		"needsVoices": true,
-		"stage": "stage",
+		"stage": "Void",
 		"speed": 3.1,
 		"bpm": 128
 	}
