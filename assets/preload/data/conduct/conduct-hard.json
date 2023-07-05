@@ -1871,8 +1871,8 @@
 		"song": "Conduct",
 		"validScore": true,
 		"needsVoices": true,
-		"stage": "stage",
-		"speed": 3.5,
+		"stage": "Laboratory",
+		"speed": 3.3,
 		"bpm": 182
 	}
 }
