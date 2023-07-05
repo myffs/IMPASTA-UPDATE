@@ -84,7 +84,7 @@ class CreditsState extends MusicBeatState
 			['IMPASTA TEAM'],
 			['MyFnf',		'fnf',		'Director, Coded and Charted a little bit.',								'',	'FFFFFF'],
 			['MemeHoovy',			'meme',			'Main Coder',							'https://twitter.com/meme_hoovy',		'FFFFFF'],
-		        ['FoxDev',				'fox',			'Made the logo and composed Impostor lobby ',						'',			'FFFFFF'],
+		        ['FoxDev',				'fox',			'Made the logo',						'',			'FFFFFF'],
                         ['Tobal Asado',				'tobal',			'Main Artist',						'',			'FFFFFF'],
 			['JoseDev',				'jose',			'Coded (optimized) some stuff',						'',			'FFFFFF'],
 			['Crazy Dany',				'dany',			'Im a artist, and dont do much either',						'',			'FFFFFF'],
