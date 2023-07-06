@@ -35,6 +35,7 @@
 	
 	<!-- PSYCH ENGINE CUSTOMIZATION -->
 	<define name="MODS_ALLOWED" if="desktop" />
+    <!-- <define name="OPEN_SOURCE_UI_ALLOWED" if="desktop" /> -->
 	<define name="LUA_ALLOWED" if="desktop" />
 	<define name="VIDEOS_ALLOWED" if="web || windows" unless="32bits"/>
 	<define name="PSYCH_WATERMARKS"/> <!-- DELETE THIS TO REMOVE WATERMARKS/DEV NAMES ON TITLE SCREEN -->
@@ -68,6 +69,10 @@
 	<assets path="assets/impasta"       library="impasta"        exclude="*.mp3" unless="web"/>
 
 	<assets path="assets/fonts" />
+
+	<section if="OPEN_SOURCE_UI_ALLOWED">
+		<assets path='assets/scripts' rename='scripts' embed='false'/>
+	</section>
 	<!-- _______________________________ Libraries ______________________________ -->
 
 	<haxelib name="flixel" />
