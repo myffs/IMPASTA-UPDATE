@@ -33,7 +33,7 @@ class MainMenuState extends MusicBeatState
 	private var camGame:FlxCamera;
 	private var camAchievement:FlxCamera;
 	
-	var optionShit:Array<String> = ['Story Mode', 'Freeplay', 'Credits', 'Options'];
+	var optionShit:Array<String> = ['Story Mode', 'Freeplay', 'Options', 'Credits'];
 
 	var camFollow:FlxObject;
 	var camFollowPos:FlxObject;
@@ -314,7 +314,7 @@ class MainMenuState extends MusicBeatState
 				trace("Options Menu Selected");
 			case 'Credits':
 				FlxG.switchState(new CreditsState());
-				trace("Gallery Menu Selected"); // gallery!? bluh..
+				trace("Credits Menu Selected");
 		}		
 	}
 
