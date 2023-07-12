@@ -3,15 +3,28 @@
 	"difficulties": "hard",
 	"hideFreeplay": false,
 	"weekBackground": "laboratory",
-	"weekBefore": "",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
+		[
+			"SUSSUS TROOPIS",
+			"green",
+			[
+				0,
+				240,
+				115
+			]
+		],
 		[
 			"Escalate",
 			"green",
@@ -22,11 +35,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Mira HQ Week"
+	"hideStoryMode": false,
+	"weekName": "Mira HQ Week",
+	"hiddenUntilUnlocked": false
 }
