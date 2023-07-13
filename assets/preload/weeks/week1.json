@@ -3,14 +3,18 @@
 	"difficulties": "hard",
 	"hideFreeplay": false,
 	"weekBackground": "weapons",
-	"weekBefore": "",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
 			"SUSSUS BOPPUS",
@@ -22,11 +26,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Polus Week"
+	"hideStoryMode": false,
+	"weekName": "Polus",
+	"hiddenUntilUnlocked": false
 }

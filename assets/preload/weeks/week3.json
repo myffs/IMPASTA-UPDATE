@@ -1,8 +1,8 @@
 {
-	"storyName": "Mira HQ",
-	"difficulties": "hard",
+	"storyName": "The Airship",
+	"difficulties": "Hard",
 	"hideFreeplay": false,
-	"weekBackground": "laboratory",
+	"weekBackground": "airship",
 	"weekBefore": "",
 	"freeplayColor": [
 		146,
@@ -13,21 +13,12 @@
 	"hideStoryMode": false,
 	"songs": [
 		[
-			"SUSSUS TROOPIS",
-			"green",
+			"Mindless Parasite",
+			"white",
 			[
-				0,
-				240,
-				115
-			]
-		],
-		[
-			"Escalate",
-			"green",
-			[
-				0,
-				240,
-				115
+				255,
+				255,
+				255
 			]
 		]
 	],
@@ -37,5 +28,5 @@
 		""
 	],
 	"hiddenUntilUnlocked": false,
-	"weekName": "Mira HQ"
+	"weekName": "Airship Week"
 }

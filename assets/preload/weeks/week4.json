@@ -1,8 +1,8 @@
 {
-	"storyName": "Mira HQ",
-	"difficulties": "hard",
+	"storyName": "The Skeld",
+	"difficulties": "Hard",
 	"hideFreeplay": false,
-	"weekBackground": "laboratory",
+	"weekBackground": "skeld",
 	"weekBefore": "",
 	"freeplayColor": [
 		146,
@@ -13,20 +13,11 @@
 	"hideStoryMode": false,
 	"songs": [
 		[
-			"SUSSUS TROOPIS",
-			"green",
+			"unknown_song_name",
+			"tan",
 			[
-				0,
-				240,
-				115
-			]
-		],
-		[
-			"Escalate",
-			"green",
-			[
-				0,
-				240,
+				195,
+				160,
 				115
 			]
 		]
@@ -37,5 +28,5 @@
 		""
 	],
 	"hiddenUntilUnlocked": false,
-	"weekName": "Mira HQ"
+	"weekName": "The Skeld"
 }
