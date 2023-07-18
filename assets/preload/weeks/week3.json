@@ -3,17 +3,21 @@
 	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "airship",
-	"weekBefore": "",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
-			"Mindless Parasite",
+			"Defeated",
 			"white",
 			[
 				255,
@@ -22,11 +26,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Airship Week"
+	"hideStoryMode": false,
+	"weekName": "Airship Week",
+	"hiddenUntilUnlocked": false
 }

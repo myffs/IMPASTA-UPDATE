@@ -1,0 +1,50 @@
+{
+	"storyName": "The Greenhouse",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "greenhouse",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Outrage",
+			"coral",
+			[
+				155,
+				0,
+				40
+			]
+		],
+		[
+			"Masochistic",
+			"coral",
+			[
+				155,
+				0,
+				40
+			]
+		],
+		[
+			"Massacre",
+			"coral",
+			[
+				155,
+				0,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Mira HQ"
+}
