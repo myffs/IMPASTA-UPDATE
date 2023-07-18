@@ -1,9 +1,9 @@
 {
-	"storyName": "The Greenhouse",
+	"storyName": "Mira HQ",
 	"difficulties": "hard",
 	"hideFreeplay": false,
 	"weekBackground": "greenhouse",
-	"weekBefore": "tutorial",
+	"weekBefore": "",
 	"freeplayColor": [
 		146,
 		113,
