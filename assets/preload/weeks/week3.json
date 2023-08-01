@@ -2,7 +2,7 @@
 	"storyName": "The Airship",
 	"difficulties": "Hard",
 	"hideFreeplay": false,
-	"weekBackground": "airship",
+	"weekBackground": "void",
 	"freeplayColor": [
 		146,
 		113,

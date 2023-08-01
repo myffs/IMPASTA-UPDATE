@@ -3,17 +3,30 @@
 	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "skeld",
-	"weekBefore": "",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
-			"unknown_song_name",
+			"Todos",
+			"tan",
+			[
+				195,
+				160,
+				115
+			]
+		],
+		[
+			"Irritation",
 			"tan",
 			[
 				195,
@@ -22,11 +35,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "The Skeld"
+	"hideStoryMode": false,
+	"weekName": "The Skeld",
+	"hiddenUntilUnlocked": false
 }

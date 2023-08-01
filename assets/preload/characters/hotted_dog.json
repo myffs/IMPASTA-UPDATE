@@ -1,81 +1,81 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				-160,
 				-510
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Idle"
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-30,
 				-540
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left"
+			"fps": 24,
+			"name": "Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-118,
 				-522
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down"
+			"fps": 24,
+			"name": "Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-152,
 				-393
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Up"
+			"fps": 24,
+			"name": "Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-94,
 				-490
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Right"
+			"fps": 24,
+			"name": "Right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-166,
 				-514
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "Join",
-			"indices": [],
-			"name": "Join"
+			"fps": 24,
+			"name": "Join",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-159,
 				-471
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "Leave",
-			"indices": [],
-			"name": "Leave"
+			"fps": 24,
+			"name": "Leave",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -87,9 +87,9 @@
 	"healthicon": "hotted",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
+		216,
 		0,
-		102
+		20
 	],
 	"camera_position": [
 		-40,
