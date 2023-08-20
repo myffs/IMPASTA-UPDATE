@@ -71,7 +71,7 @@ class ChartingState extends MusicBeatState
 		'Hurt Note',
 		'GF Sing',
 		'No Animation',
-		'Player 2 Sing'
+		'2nd Opponent'
 	];
 	private var noteTypeIntMap:Map<Int, String> = new Map<Int, String>();
 	private var noteTypeMap:Map<String, Null<Int>> = new Map<String, Null<Int>>();
@@ -97,7 +97,8 @@ class ChartingState extends MusicBeatState
 		['Change Scroll Speed', "Value 1: Scroll Speed Multiplier (1 is default)\nValue 2: Time it takes to change fully in seconds."],
 		['Set Property', "Value 1: Variable name\nValue 2: New value"],
 		['O2 Sabotage', "Value 1: Variable name\nValue 2: New value"],
-		['White Flash', "Value 1: Variable name\nValue 2: New value"]
+		['White Flash', "Value 1: Variable name\nValue 2: New value"],
+		['health drop', "mentally, your health is dropping."]
 	];
 
 	var _file:FileReference;
