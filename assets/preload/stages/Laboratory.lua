@@ -1,24 +1,23 @@
+bopping = true
 
-
---How makeLuaSprite works:
---makeLuaSprite(<SPRITE VARIABLE>, <SPRITE IMAGE FILE NAME>, <X>, <Y>);
---"Sprite Variable" is how you refer to the sprite you just spawned in other methods like "setScrollFactor" and "scaleObject" for example
-
---so for example, i made the sprites "stagelight_left" and "stagelight_right", i can use "scaleObject('stagelight_left', 1.1, 1.1)"
---to adjust the scale of specifically the one stage light on left instead of both of them
-
-function onCreate()
-	-- background shit
-	makeLuaSprite('LaboratoryFront', 'LaboratoryFront', 0, 90);
-	setScrollFactor('LaboratoryFront', 0.9, 0.9);
-	scaleObject('LaboratoryFront', 0.9, 0.9);
-
-
-	makeLuaSprite('LaboratoryBack', 'LaboratoryBack', 0, 0);
-	setScrollFactor('LaboratoryBack', 0.9, 0.9);
-
+function onCreatePost()	
+	makeLuaSprite("LaboratoryBack", "LaboratoryBack", -780, 200)
+	scaleObject("LaboratoryBack", 1.2, 1)
+	setScrollFactor("LaboratoryBack", 0.99, 0.99)
+	addLuaSprite("LaboratoryBack", false)
 	
-
-	addLuaSprite('LaboratoryBack', false);
-	addLuaSprite('LaboratoryFront', true);
+	makeLuaSprite("LaboratoryFront", "LaboratoryFront", 1409, 1229)
+	scaleObject("LaboratoryFront", 1.2, 1)
+	setScrollFactor("LaboratoryFront", 0.99, 0.99)
+	addLuaSprite("LaboratoryFront", true)
+		
+		makeLuaSprite("LaboratoryOverlay", "LaboratoryOverlay", -1280, -800)
+		scaleObject("LaboratoryOverlay", 1.1, 1.1)
+		setScrollFactor("LaboratoryOverlay", 0.5, 0.5)
+		setBlendMode("LaboratoryOverlay", "add")
+		addLuaSprite("LaboratoryOverlay", true)
 end
+
+-- crash prevention
+function onUpdate() end
+function onUpdatePost() end

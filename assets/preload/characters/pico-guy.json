@@ -1,0 +1,175 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-280
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-273
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-351
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-73
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				-277
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-271
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				-357
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				-73
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				-278
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				286,
+				-216
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ded",
+			"indices": [],
+			"name": "he ded"
+		},
+		{
+			"offsets": [
+				55,
+				-265
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deadloop",
+			"indices": [],
+			"name": "loop ''animation''"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				-232
+			],
+			"anim": "retry",
+			"fps": 24,
+			"name": "retry!!!",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pico-guy",
+	"position": [
+		-220,
+		0
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		-150,
+		290
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
