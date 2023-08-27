@@ -416,6 +416,19 @@ class PlayState extends MusicBeatState
 		#if desktop
 		storyDifficultyText = CoolUtil.difficulties[storyDifficulty];
 
+		/*
+
+                // beta atm
+
+              	  case "red_impostor":
+	          curPortrait = "red";
+
+                 */
+
+		  case "tan": // week 4 !!!
+	          curPortrait = "tan";
+                    
+
 		// String that contains the mode defined here so it isn't necessary to call changePresence for each mode
 		if (isStoryMode)
 		{
