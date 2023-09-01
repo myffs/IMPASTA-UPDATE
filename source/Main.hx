@@ -11,6 +11,7 @@ import openfl.display.Sprite;
 import openfl.events.Event;
 import openfl.display.StageScaleMode;
 import lime.app.Application;
+import SSPlugin as ScreenShotPlugin;
 
 #if desktop
 import Discord.DiscordClient;
@@ -117,6 +118,8 @@ class Main extends Sprite
 			});
 		}
 		#end
+
+		#if !web FlxG.plugins.add(new ScreenShotPlugin()); #end
 	}
 
 	// Code was entirely made by sqirra-rng for their fnf engine named "Izzy Engine", big props to them!!!
