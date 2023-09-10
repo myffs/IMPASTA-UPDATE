@@ -93,7 +93,7 @@ class CreditsState extends MusicBeatState
 			['Fishik',				'fishik',			'Musician\nMainly composed for week 1',						'https://youtube.com/@FushikGodzilla',			'FFFFFF'],
 			['DumbPNG',				'png',			'Musician\nMainly composed for week 2',						'',			'FFFFFF'],
 			['Csauce',				'go',			'Musician\nMainly composed for week 4 and an additional composer for week 2',						'',			'FFFFFF'],
-			['OnlyFish',				'onlyfish',			'Musician\nComposed a bit for week 5',						'',			'FFFFFF'],
+			['OnlyFishy',				'onlyfish',			'Musician\nComposed a bit for week 5',						'',			'FFFFFF'],
 			['weed_',				'discord',			'Compiler\nMakes dev builds',						'',			'FFFFFF'],
 			['Rob0br1ne',				'rob',			'Compiler\nMakes release builds',						'',			'FFFFFF'],
 			['iceTom_',				'discord',			'Coder\nCoded in the O2 event',						'',			'FFFFFF']
