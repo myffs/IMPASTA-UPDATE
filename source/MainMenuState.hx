@@ -33,7 +33,7 @@ class MainMenuState extends MusicBeatState
 	private var camGame:FlxCamera;
 	private var camAchievement:FlxCamera;
 	
-	var optionShit:Array<String> = ['Story Mode', 'Freeplay', 'Options', 'Credits'];
+	var optionShit:Array<String> = ['Story Mode', 'Freeplay', 'Credits', 'Options'];
 
 	var camFollow:FlxObject;
 	var camFollowPos:FlxObject;
@@ -101,7 +101,7 @@ class MainMenuState extends MusicBeatState
 		{
 			var testButton:FlxSprite = new FlxSprite(0, 130);
 			testButton.ID = i;
-			if(i > 3)
+			if(i >= 3)
 				testButton.frames = Paths.getSparrowAtlas('Buttons_UI', 'impasta');
 			else
 				testButton.frames = Paths.getSparrowAtlas('Big_Buttons_UI', 'impasta');
@@ -124,13 +124,7 @@ class MainMenuState extends MusicBeatState
 				case 2:
 					testButton.setPosition(400, 580);
 				case 3:
-					testButton.setPosition(633, 580);
-				case 4:
-					testButton.setPosition(455, 640);
-				case 5:
 					testButton.setPosition(590, 640);
-				case 6:
-					testButton.setPosition(725, 640);
 			}
 			menuItems.add(testButton);
 		}
