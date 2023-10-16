@@ -99,7 +99,7 @@ class CreditsState extends MusicBeatState
 			['iceTom',				'discord',			'Coder\nCoded in the O2 event',						'',			'FFFFFF'],
 			['GameRingAlt',				'discord',			'Artist\nUI Elements',						'',			'FFFFFF'],
 			['Da Taurenado',				'discord',			'Artist\nUI Elements',						'',			'FFFFFF'],
-			['heiaw',				'discord',			'Musician\nPause Music, Main menu, etc',						'',			'FFFFFF']
+			['Heiaw',				'discord',			'Musician\nPause Music, Main menu, etc',						'',			'FFFFFF']
 		];
 		
 		for(i in pisspoop){
