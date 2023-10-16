@@ -94,9 +94,12 @@ class CreditsState extends MusicBeatState
 			['DumbPNG',				'png',			'Musician\nMainly composed for week 2',						'',			'FFFFFF'],
 			['Csauce',				'go',			'Musician\nMainly composed for week 4 and an additional composer for week 2',						'',			'FFFFFF'],
 			['OnlyFishy',				'onlyfish',			'Musician\nComposed a bit for week 5',						'',			'FFFFFF'],
-			['weed_',				'discord',			'Compiler\nMakes dev builds',						'',			'FFFFFF'],
+			['weed cat',				'discord',			'Compiler\nMakes dev builds',						'',			'FFFFFF'],
 			['Rob0br1ne',				'rob',			'Compiler\nMakes release builds',						'',			'FFFFFF'],
-			['iceTom_',				'discord',			'Coder\nCoded in the O2 event',						'',			'FFFFFF']
+			['iceTom',				'discord',			'Coder\nCoded in the O2 event',						'',			'FFFFFF'],
+			['GameRingAlt',				'discord',			'Artist\nUI Elements',						'',			'FFFFFF'],
+			['Da Taurenado',				'discord',			'Artist\nUI Elements',						'',			'FFFFFF'],
+			['heiaw',				'discord',			'Musician\nPause Music, Main menu, etc',						'',			'FFFFFF']
 		];
 		
 		for(i in pisspoop){
