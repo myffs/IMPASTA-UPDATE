@@ -1,11 +1,14 @@
-# vs impasta - pasta gameplay
+# Welcome to VS Impasta
 
-welcome to a mod. amougus mod. enjoy amogus mod.
+- This mod is a little project i made as a **joke** that turned into a full ass **game**, i hope you enjoy it.
 
-- shoutouts to IMPOSTORM yall did great !!
+- Inspired **VS IMPOSTOR**
 
-also credits to IMPOSTORM for some ui, assets, code, and some sfx 
+# About
 
-# compiling.
+- This mod is about traveling to different **amogus lobbies** FULL of impostors, and your goal is to defeat them before they take over
 
-its basically like compiling psych engine
+# Compiling
+
+- Its literally just the [psych engine](https://github.com/ShadowMario/FNF-PsychEngine#installation) compile intructions
+
